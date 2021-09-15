@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <a href="https://ameer-kallumthodi.github.io"><span class="avatar"><img width='200' height='200'  src="https://github.com/ameer-kallumthodi.png?size=100" (https://github.com/ameer-kallumthodi) alt=""> </a></span>
+  <a href="https://DAVIL-SACHU.github.io"><span class="avatar"><img width='200' height='200'  src="https://github.com/DAVIL-SACHU.png?size=100" (https://github.com/DAVIL-SACHU) alt=""> </a></span>
   <h1>Ameer Suhail</h1>
 </div>
 
@@ -9,16 +9,16 @@
 </div>
 ##
 <p align="center">
-  <a href="https://github.com/ameer-kallumthodi">
-    <img src="https://komarev.com/ghpvc/?username=ameer-kallumthodi&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/DAVIL-SACHU">
+    <img src="https://komarev.com/ghpvc/?username=DAVIL-SACHU&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/ameer-kallumthodi?tab=stars">
-    <img src="https://img.shields.io/github/stars/ameer-kallumthodi?color=ff69b4&label=Stargazers&style=plastic">
+  <a href="https://github.com/DAVIL-SACHU?tab=stars">
+    <img src="https://img.shields.io/github/stars/DAVIL-SACHU?color=ff69b4&label=Stargazers&style=plastic">
 
   </a>
-  <a href="https://github.com/ameer-kallumthodi?tab=followers">
-    <img src="https://img.shields.io/github/followers/ameer-kallumthodi?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/DAVIL-SACHU?tab=followers">
+    <img src="https://img.shields.io/github/followers/DAVIL-SACHU?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
@@ -41,22 +41,22 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 -->
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=nightowl" alt="ameer-kallumthodi" /></p>9
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DAVIL-SACHU&show_icons=true&theme=nightowl" alt="DAVIL-SACHU" /></p>9
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=nightowl" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DAVIL-SACHU&theme=nightowl" alt="DAVIL-SACHU" /></p>
 </details> </div>
 
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/ameer-kallumthodi?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/DAVIL-SACHU?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=wabot-aq)](https://github.com/ameer-kallumthodi/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=DAVIL-SACHU&repo=wabot-aq)](https://github.com/DAVIL-SACHU/wabot-aq)
 
 </div>
 <div align="center">
  <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameer-kallumthodi&theme=radical&layout=compact" /></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIL-SACHU&theme=radical&layout=compact" /></td>
     </tr>
     <tr>
         <td align="center"><img src="http://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6&cover_image=false)" /></td>
@@ -66,7 +66,7 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ameer-kallumthodi)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DAVIL-SACHU)
 
 </details>
 
