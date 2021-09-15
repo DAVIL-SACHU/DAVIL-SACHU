@@ -1,18 +1,5 @@
 
-  </a>
-  <a href="https://github.com/DAVIL-SACHU?tab=stars">
-    <img src="https://img.shields.io/github/stars/DAVIL-SACHU?color=ff69b4&label=Stargazers&style=plastic">
-
-  </a>
-  <a href="https://github.com/DAVIL-SACHU?tab=followers">
-    <img src="https://img.shields.io/github/followers/DAVIL-SACHU?color=ff69b4&label=Followers&style=plastic">
-
-  </a>
-</p>
-
-
-
-
+  
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
