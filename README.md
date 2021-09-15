@@ -5,7 +5,13 @@
 <p align="center">
   <a href="https://github.com/DAVIL-SACHU">
     <img src="https://komarev.com/ghpvc/?username=DAVIL-SACHU&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+</a>
+  <a href="https://github.com/DAVIL-SACHU?tab=stars">
+    <img src="https://img.shields.io/github/stars/DAVIL-SACHU?color=ff69b4&label=Stargazers&style=plastic">
 
+  </a>
+  <a href="https://github.com/DAVIL-SACHU?tab=followers">
+    <img src="https://img.shields.io/github/followers/DAVIL-SACHU?color=ff69b4&label=Followers&style=plastic">
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
