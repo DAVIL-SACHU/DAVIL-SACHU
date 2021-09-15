@@ -1,8 +1,3 @@
-### Hi there 👋
-<div align="center">
-  <a href="https://KFASACHU2.github.io"><span class="avatar"><img width='200' height='200'  src="https://github.com/KFASACHU.png?size=100" (https://github.com/KFASACHU2) alt=""> </a></span>
-  <h1>SACHU&ABHIRAM</h1>
-</div>
 
 <div align="center">
 <h7> Les of a programmer and more like a bug fixer </h7>
