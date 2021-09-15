@@ -1,12 +1,4 @@
 
-<div align="center">
-<h7> Les of a programmer and more like a bug fixer </h7>
-</div>
-##
-<p align="center">
-  <a href="https://github.com/DAVIL-SACHU">
-    <img src="https://komarev.com/ghpvc/?username=DAVIL-SACHU&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
-
   </a>
   <a href="https://github.com/DAVIL-SACHU?tab=stars">
     <img src="https://img.shields.io/github/stars/DAVIL-SACHU?color=ff69b4&label=Stargazers&style=plastic">
