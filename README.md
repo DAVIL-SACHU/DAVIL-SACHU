@@ -1,7 +1,7 @@
 <div align="center">
   
 
-<a href="https://bit.ly/3lC8I7t"><img src="https://fontmeme.com/permalink/210921/3c26bfa40bdfeb9b33043f2cc612220a.png" alt="google-font" border="0"></a>
+<a href=""><img src="https://fontmeme.com/permalink/210921/3c26bfa40bdfeb9b33043f2cc612220a.png" alt="google-font" border="0"></a>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=FF0000&lines=Welcome+to+DAVIL+SACHU+PROFILE;WA+BOT+REPO+Created+by+DAVIL+SACHU)](https://github.com/DAVIL-SACHU)
 </a>
