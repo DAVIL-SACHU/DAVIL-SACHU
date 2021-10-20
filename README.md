@@ -44,13 +44,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DAVIL-SACHU&theme=nightowl" alt="DAVIL-SACHU" /></p>
 </details> </div>
- 
-# [GitHub Stats Visualization](https://github.com/DAVIL-SACHU/github-stats)
 
-<a href="https://github.com/DAVIL-SACHU/github-stats">
+# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
-![](https://github.com/DAVIL-SACHU/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/DAVIL-SACHU/github-stats/blob/master/generated/languages.svg)
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 
 </a>
-
