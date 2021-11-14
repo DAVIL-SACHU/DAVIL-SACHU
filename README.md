@@ -19,7 +19,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://avatars.githubusercontent.com/u/90506715?v=4?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>(https://github.com/DAVIL-SACHU)
+<img src="https://avatars.githubusercontent.com/u/90506715?v=4?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
 </p>
 
 <p align="center">
@@ -44,12 +44,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DAVIL-SACHU&theme=nightowl" alt="DAVIL-SACHU" /></p>
 </details> </div>
-
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
-
-</a>
